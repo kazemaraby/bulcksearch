@@ -1,0 +1,31 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2023-01-10 22:34:13.911051",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Bulk Search",
+ "links": [],
+ "modified": "2023-01-10 22:37:48.831665",
+ "modified_by": "asd@f.com",
+ "module": "bulksearch",
+ "name": "Bulk Search",
+ "owner": "asd@f.com",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Bulk Search",
+   "link_to": "Bulk Search",
+   "type": "DocType"
+  }
+ ]
+}
